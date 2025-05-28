@@ -1,0 +1,670 @@
+{
+    "Transactions": [
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Deposit",
+            "Amount": 500.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Deposit",
+            "Amount": 300.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 300.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 300.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "InterestDeposit",
+            "Amount": 9.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Deposit",
+            "Amount": 50.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Withdraw",
+            "Amount": 21.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Withdraw",
+            "Amount": 200.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Deposit",
+            "Amount": 400.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Deposit",
+            "Amount": 400.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Deposit",
+            "Amount": 454.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Deposit",
+            "Amount": 454.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Withdraw",
+            "Amount": 454.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Deposit",
+            "Amount": 454.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Withdraw",
+            "Amount": 454.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Withdraw",
+            "Amount": 200.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Withdraw",
+            "Amount": 190.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "89873403",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 200.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 100.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 110.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 50.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 50.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "MoneyTranfer",
+            "Amount": 50.0,
+            "ReceiverAccountID": "57830229",
+            "ReceiverUsername": "Prototype",
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 20.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "MoneyTranfer",
+            "Amount": 20.0,
+            "ReceiverAccountID": "57830229",
+            "ReceiverUsername": "Prototype",
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "89873403",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 4500.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 500.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 75.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 120.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "89873403",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 12.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-15"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 45.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 50.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 1500.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 50.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 60.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 40.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 200.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 99.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 1.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "LoanNotRepayed",
+            "Amount": 0.023,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 200.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 4000.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 500.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Deposit",
+            "Amount": 600.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Deposit",
+            "Amount": 25.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 26.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 90.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 45.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 100.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Deposit",
+            "Amount": 100.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-16"
+        },
+        {
+            "SenderAccountID": "98242438",
+            "SenderUsername": "wasil004",
+            "OperationType": "InterestDeposit",
+            "Amount": 144.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "98242438",
+            "SenderUsername": "wasil004",
+            "OperationType": "Withdraw",
+            "Amount": 100.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Deposit",
+            "Amount": 340.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 89.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 370.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Deposit",
+            "Amount": 60.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Deposit",
+            "Amount": 10.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "Withdraw",
+            "Amount": 10.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "87934787",
+            "SenderUsername": "asta",
+            "OperationType": "MoneyTransfer",
+            "Amount": 10.0,
+            "ReceiverAccountID": "57830229",
+            "ReceiverUsername": "Prototype",
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "Deposit",
+            "Amount": 300.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "51924941",
+            "SenderUsername": "sahil",
+            "OperationType": "Deposit",
+            "Amount": 400.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "82300010",
+            "SenderUsername": "ahzam",
+            "OperationType": "Deposit",
+            "Amount": 200.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "82300010",
+            "SenderUsername": "ahzam",
+            "OperationType": "Deposit",
+            "Amount": 10.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "82300010",
+            "SenderUsername": "ahzam",
+            "OperationType": "LoanNotRepayed",
+            "Amount": 0.23,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-12-20"
+        },
+        {
+            "SenderAccountID": "57830229",
+            "SenderUsername": "Prototype",
+            "OperationType": "InterestDeposit",
+            "Amount": 28.48,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-12-20"
+        },
+        {
+            "SenderAccountID": "19375412",
+            "SenderUsername": "moizalbharwa",
+            "OperationType": "Withdraw",
+            "Amount": 30.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "19375412",
+            "SenderUsername": "moizalbharwa",
+            "OperationType": "Deposit",
+            "Amount": 300.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "19375412",
+            "SenderUsername": "moizalbharwa",
+            "OperationType": "Withdraw",
+            "Amount": 1100.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "19375412",
+            "SenderUsername": "moizalbharwa",
+            "OperationType": "Withdraw",
+            "Amount": 1000.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "19375412",
+            "SenderUsername": "moizalbharwa",
+            "OperationType": "Withdraw",
+            "Amount": 100.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "19375412",
+            "SenderUsername": "moizalbharwa",
+            "OperationType": "Withdraw",
+            "Amount": 50.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "19375412",
+            "SenderUsername": "moizalbharwa",
+            "OperationType": "Deposit",
+            "Amount": 1000.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "19375412",
+            "SenderUsername": "moizalbharwa",
+            "OperationType": "Withdraw",
+            "Amount": 400.0,
+            "ReceiverAccountID": null,
+            "ReceiverUsername": null,
+            "Date": "2023-07-18"
+        },
+        {
+            "SenderAccountID": "19375412",
+            "SenderUsername": "moizalbharwa",
+            "OperationType": "MoneyTransfer",
+            "Amount": 400.0,
+            "ReceiverAccountID": "57830229",
+            "ReceiverUsername": "Prototype",
+            "Date": "2023-07-18"
+        }
+    ]
+}

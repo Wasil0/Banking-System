@@ -1,0 +1,39 @@
+{
+    "LoanAccountUsers": [
+        {
+            "Name": "wasil",
+            "Username": "sahil",
+            "Password": "12345",
+            "Email": "sahil@gmail.com",
+            "Phone": "12345",
+            "AccountID": "51924941",
+            "LoanTaken": -2000,
+            "RepaymentDeadline": "2023-10-16",
+            "AmountRepayed": 0
+        }
+    ],
+    "SavingAccountUsers": [
+        {
+            "Name": "Ahzam Rehan",
+            "Username": "Prototype",
+            "Password": "12345",
+            "Email": "prototype@gmail.com",
+            "Phone": "12345",
+            "AccountID": "57830229",
+            "Balance": 1272.0
+        }
+    ],
+    "CheckingAccountUsers": [
+        {
+            "Name": "Sardar Abdul Moiz Khan",
+            "Username": "asta",
+            "Password": "12345",
+            "Email": "asta@gmail.com",
+            "Phone": "12345",
+            "AccountID": "87934787",
+            "Balance": 4655.0,
+            "CreditAmountSpend": 0,
+            "RepaymentDeadline": "None"
+        }
+    ]
+}

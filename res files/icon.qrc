@@ -1,0 +1,38 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/bank logo.JPG</file>
+    <file>icons/icons8-arrow-right-30.png</file>
+    <file>icons/icons8-bulleted-list-30.png</file>
+    <file>icons/icons8-cash-30.png</file>
+    <file>icons/icons8-close-40.png</file>
+    <file>icons/icons8-deposit-30.png</file>
+    <file>icons/icons8-email-30.png</file>
+    <file>icons/icons8-euro-money-30.png</file>
+    <file>icons/icons8-helpdesk-30.png</file>
+    <file>icons/icons8-id-30.png</file>
+    <file>icons/icons8-left-30.png</file>
+    <file>icons/icons8-logout-30.png</file>
+    <file>icons/icons8-name-30.png</file>
+    <file>icons/icons8-password-30.png</file>
+    <file>icons/icons8-phone-30.png</file>
+    <file>icons/icons8-print-80.png</file>
+    <file>icons/icons8-register-30.png</file>
+    <file>icons/icons8-transactions-40.png</file>
+    <file>icons/icons8-user-65.png</file>
+    <file>icons/icons8-user-80.png</file>
+    <file>icons/icons8-username-30.png</file>
+    <file>icons/icons8-withdraw-30.png</file>
+    <file>icons/text-1689249873503.png</file>
+    <file>icons/text-1689250023909.png</file>
+    <file>icons/text-1689250808061.png</file>
+    <file>icons/text-1689252540047.png</file>
+    <file>icons/text-1689252575884.png</file>
+    <file>icons/text-1689349104450.png</file>
+    <file>icons/text-1689349113209.png</file>
+    <file>icons/text-1689349121011.png</file>
+    <file>icons/text-1689349860228.png</file>
+    <file>icons/text-1689354793688.png</file>
+    <file>icons/text-1689357212140.png</file>
+    <file>icons/text-1689358416197.png</file>
+  </qresource>
+</RCC>

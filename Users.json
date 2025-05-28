@@ -1,0 +1,81 @@
+{
+    "LoanAccountUsers": [
+        {
+            "Name": "wasil",
+            "Username": "sahil",
+            "Password": "12345",
+            "Email": "sahil@gmail.com",
+            "Phone": "12345",
+            "AccountID": "51924941",
+            "LoanTaken": 0,
+            "RepaymentDeadline": null,
+            "AmountRepayed": 2500.0
+        },
+        {
+            "Name": "ahzam",
+            "Username": "ahzam",
+            "Password": "12345",
+            "Email": "ahzam@gmail.com",
+            "Phone": "09876432",
+            "AccountID": "82300010",
+            "LoanTaken": 2618.0,
+            "RepaymentDeadline": "2023-10-18",
+            "AmountRepayed": 210.0
+        }
+    ],
+    "SavingAccountUsers": [
+        {
+            "Name": "wasil",
+            "Username": "wasil004",
+            "Password": "kuchbhi",
+            "Email": "tobatoba",
+            "Phone": "123123",
+            "AccountID": "98242438",
+            "Balance": 8044.0
+        },
+        {
+            "Name": "Ahzam Rehan",
+            "Username": "Prototype",
+            "Password": "12345",
+            "Email": "prototype@gmail.com",
+            "Phone": "12345",
+            "AccountID": "57830229",
+            "Balance": 2010.48
+        }
+    ],
+    "CheckingAccountUsers": [
+        {
+            "Name": "Moiz",
+            "Username": "gg",
+            "Password": "12345",
+            "Email": "gg@gmail.com",
+            "Phone": "12345",
+            "AccountID": "51487438",
+            "Balance": 200.0,
+            "CreditAmountSpend": 0,
+            "RepaymentDeadline": "None"
+        },
+        {
+            "Name": "Sardar Abdul Moiz Khan",
+            "Username": "asta",
+            "Password": "12345",
+            "Email": "asta@gmail.com",
+            "Phone": "12345456789",
+            "AccountID": "87934787",
+            "Balance": -6.0,
+            "CreditAmountSpend": 6.0,
+            "RepaymentDeadline": "2023-08-18"
+        },
+        {
+            "Name": "moiz-chan",
+            "Username": "moizalbharwa",
+            "Password": "ptanhi",
+            "Email": "chordo",
+            "Phone": "00000000",
+            "AccountID": "19375412",
+            "Balance": 230.0,
+            "CreditAmountSpend": 0,
+            "RepaymentDeadline": "2023-08-18"
+        }
+    ]
+}
